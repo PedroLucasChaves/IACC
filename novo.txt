@@ -1,0 +1,4 @@
+Nome: Pedro Lucas
+Idade: 23
+Cidade: Torres
+Time: Grêmio
